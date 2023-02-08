@@ -1,5 +1,5 @@
+nums = [34, 1, 0, -23, 12, -88]
+print("Original numbers in the list: ",nums)
+new_nums = list(filter(lambda x: x >0, nums))
+print("Positive numbers in the said list: ",new_nums)
 
-list1 = [11, -21, 0, 45, 66, -93]
-for num in list1:
-	if num & gt = 0:
-		print(num, end=& quot& quot)
